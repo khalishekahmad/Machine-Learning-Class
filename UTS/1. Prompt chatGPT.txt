@@ -1,0 +1,11 @@
+1. Prompt chatGPT:
+
+2. Penjelasan Kode:
+
+3. Penjelasan Konsep Machine Learning:
+EDA	Data visualization	Training	Evaluating	Inputing new data
+
+4. Catatan/Penjelasan dari Output di atas:
+
+berikan perintah prompt dari chatgpt untuk menuliskan kode di atas 
+kalimat perintahnya saja ke chatgpt
